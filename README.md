@@ -1,3 +1,5 @@
+# I'm gonna cancel this project. Whoops!
+The creator of ClassicTwitter quit because, they, were, racist! Woah! Whoops!
 # OpenScooper
 A fork of OpenTween 1.0.3 from 2012.
 # FAQ:
