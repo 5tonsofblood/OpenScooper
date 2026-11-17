@@ -1702,7 +1702,7 @@ namespace OpenTween
             tw.Initialize("", "", "", 0);
             //this.AuthStateLabel.Text = Properties.Resources.AuthorizeButton_Click4;
             //this.AuthUserLabel.Text = "";
-            string pinPageUrl = "";
+            string pinPageUrl = "http://google.com";
             string rslt = tw.StartAuthentication(ref pinPageUrl);
             if (string.IsNullOrEmpty(rslt))
             {
