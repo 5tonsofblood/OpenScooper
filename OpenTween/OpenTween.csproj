@@ -415,6 +415,7 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="app.config" />
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Content Include="Resources\3b.ico" />
